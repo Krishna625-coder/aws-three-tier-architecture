@@ -128,49 +128,49 @@ aws-three-tier-architecture
 # 📸 Deployment Screenshots
 
 ## 1. VPC Created
-![VPC](screenshots/01-vpc-created.png)
+![VPC](screenshots/01-vpc-created.png.png)
 
 ## 2. EC2 Instances Overview
-![EC2](screenshots/02-ec2-instances-overview.png)
+![EC2](screenshots/02-ec2-instances-overview.png.jpeg)
 
 ## 3. Web Server Instance Connection
-![Web Server](screenshots/03-web-server-instance-connect.png)
+![Web Server](screenshots/03-web-server-instance-connect.png.jpeg)
 
 ## 4. App Server Instance
-![App Server](screenshots/04-app-server-instance-details.png)
+![App Server](screenshots/04-app-server-instance-details.png.jpeg)
 
 ## 5. PM2 Installed
-![PM2](screenshots/05-pm2-installed.png)
+![PM2](screenshots/05-pm2-installed.png.jpeg)
 
 ## 6. Backend Running
-![Backend](screenshots/06-backend-server-running.png)
+![Backend](screenshots/06-backend-server-running.png.jpeg)
 
 ## 7. Booking API Success
-![API](screenshots/07-booking-api-success.png)
+![API](screenshots/07-booking-api-success.png.jpeg)
 
 ## 8. Amazon RDS
-![RDS](screenshots/08-rds-database-created.png)
+![RDS](screenshots/08-rds-database-created.png.jpeg)
 
 ## 9. NAT Gateway
-![NAT](screenshots/09-nat-gateway-created.png)
+![NAT](screenshots/09-nat-gateway-created.png.jpeg)
 
 ## 10. EC2 Instance Connect Endpoint
-![Endpoint](screenshots/10-vpc-endpoint-created.png)
+![Endpoint](screenshots/10-vpc-endpoint-created.png.jpeg)
 
 ## 11. CloudWatch Alarm
-![Alarm](screenshots/11-cloudwatch-alarm-created.png)
+![Alarm](screenshots/11-cloudwatch-alarm-created.png.jpeg)
 
 ## 12. CloudWatch Email Alert
-![Email](screenshots/12-cloudwatch-email-alert.png)
+![Email](screenshots/12-cloudwatch-email-alert.png.jpeg)
 
 ## 13. Frontend Homepage
-![Frontend](screenshots/13-frontend-homepage.png)
+![Frontend](screenshots/13-frontend-homepage.png.jpeg)
 
 ## 14. Online Booking Form
-![Booking](screenshots/14-online-booking-form.png)
+![Booking](screenshots/14-online-booking-form.png.jpeg)
 
 ## 15. Frontend & Backend Integration
-![Integration](screenshots/15-frontend-backend-integration.png)
+![Integration](screenshots/15-frontend-backend-integration.png.jpeg)
 
 ---
 
